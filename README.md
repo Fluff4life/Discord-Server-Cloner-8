@@ -2,8 +2,8 @@
 Discord server copy tool (copys all channels + design)
 
 ### SETUP :
-1. ```pip install -r requirements.txt```
-2. Run start.py
+1. Run setup.bat
+2. Run start.bat
 3. Have fun 😁
 
 
